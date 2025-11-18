@@ -481,7 +481,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 287
     height: 529
   m_SerializedDataModeController:
@@ -546,8 +546,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 288
-    y: 79
+    x: 289
+    y: 24
     width: 1043
     height: 529
   m_SerializedDataModeController:
@@ -1090,9 +1090,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 145.8991, y: 23.10161, z: -11.09861}
+    m_Target: {x: 47.39316, y: 19.902977, z: -10.3810215}
     speed: 2
-    m_Value: {x: 149.66914, y: 23.237373, z: -11.04608}
+    m_Value: {x: 145.8991, y: 23.10161, z: -11.09861}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1142,9 +1142,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 121.98664
+    m_Target: 50.22579
     speed: 2
-    m_Value: 116.73363
+    m_Value: 121.98664
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1200,7 +1200,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 634
+    y: 24
     width: 695
     height: 352
   m_SerializedDataModeController:
@@ -1244,7 +1244,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5aa00000
     m_LastClickedID: 41050
-    m_ExpandedIDs: 0000000048a0000000ca9a3b
+    m_ExpandedIDs: 0000000016840000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1273,7 +1273,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000048a0000000ca9a3b
+    m_ExpandedIDs: 0000000016840000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1579,8 +1579,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Animation\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 696
-    y: 634
+    x: 697
+    y: 24
     width: 635
     height: 352
   m_SerializedDataModeController:
@@ -1667,8 +1667,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Tile Palette\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1333
-    y: 79
+    x: 1334
+    y: 24
     width: 586
     height: 907
   m_SerializedDataModeController:
